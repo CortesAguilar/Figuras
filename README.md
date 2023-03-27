@@ -1,0 +1,2 @@
+# Figuras
+Practica de herencia
